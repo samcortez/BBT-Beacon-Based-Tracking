@@ -8,11 +8,11 @@ Since I don't own beacons anymore, I won't be able to finish by myself this proj
 Feel free to contact me. :)
 
 TO DO:
-  - Integrate the motion data along the beacons data;
-  - Reduce beacon noisy data income, a simple low pass filter was added perhaps a different kind of filter is indicated;
-  - Implement a new design for the "walkable" area and how the code will use points do define a route;
-  - Modularize it better, allow the developer to simply integrate to its project;
-  - More.
+  -  Integrate the motion data along the beacons data;
+  -  Reduce beacon noisy data income, a simple low pass filter was added perhaps a different kind of filter is indicated;
+  -  Implement a new design for the "walkable" area and how the code will use points do define a route;
+  -  Modularize it better, allow the developer to simply integrate to its project;
+  -  More.
  
 DOCUMENTATION:
   https://docs.google.com/document/d/1U9IuoDjDjsnMfapTTI3W94V1r3cirNPFlI9Dzmo4QB4/edit?usp=sharing
